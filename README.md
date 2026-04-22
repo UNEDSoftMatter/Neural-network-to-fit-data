@@ -22,8 +22,26 @@ To compile, just write the following command in the command line:
 
 make
 
+The file neural_network_program will be created, which is the executable.
+
 If you want to clean everthing before compiling again, just do
 
 make clean
 
+
+# Running the program
+
+You need to have the following files in the same directory (with the exact names shown below):
+
+- **neural_network_program**: the executable.
+- **input**: a file containing the program inputs.
+- **data.dat**: the data to be fitted by the neural network.
+
+To run the program, execute:
+
+./neural_network_program
+
+
 # Input variables 
+
+N       -> Number of particles in each direction ( in a rectangular grid)
