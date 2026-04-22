@@ -4,6 +4,10 @@ Developed by Adolfo Vázquez-Quesada.
 
 mail: a.vazquez-quesada@fisfun.uned.es
 
+<p align="center">
+  <img src="images/loss_function_graph.png" width="500">
+</p>
+
 --------------------------------------------------
 
 - Host variables and functions are declared in class_system.h.
@@ -27,15 +31,6 @@ The file neural_network_program will be created, which is the executable.
 If you want to clean everthing before compiling again, just do
 
 make clean
-
-
-<p align="center">
-  <img src="images/loss_function_graph.png" width="500">
-</p>
-
-
-
-
 
 # Running the program
 
