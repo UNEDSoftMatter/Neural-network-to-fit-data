@@ -5,7 +5,7 @@ mail: a.vazquez-quesada@fisfun.uned.es
 
 <p align="center">
   <img src="images/loss_function_graph.png" width="500"><br>
-  <em>Evolution of the loss function during training, for different neural networks.</em>
+  <em>Evolution of the loss function during training for different neural networks.</em>
 </p>
 
 --------------------------------------------------
