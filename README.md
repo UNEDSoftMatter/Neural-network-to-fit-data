@@ -8,6 +8,11 @@ mail: a.vazquez-quesada@fisfun.uned.es
   <img src="images/loss_function_graph.png" width="500">
 </p>
 
+<figure align="center">
+  <img src="images/loss_function_graph.png" width="500">
+  <figcaption>Evolution of the loss function during training.</figcaption>
+</figure>
+
 --------------------------------------------------
 
 - Host variables and functions are declared in class_system.h.
