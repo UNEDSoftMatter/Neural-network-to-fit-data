@@ -1,9 +1,7 @@
 # Neural-network-to-fit-data
-Neural network programmed with C++/CUDA to find a function fitting a set of data points.
-Developed by Adolfo Vázquez-Quesada. 
+CUDA code for a neural network that fits a set of three‑dimensional data points (x,y,z). The neural network finds an approximating function f(x,y) that best fits the data. The implementation is written in CUDA and is designed to run on GPUs.
 
 mail: a.vazquez-quesada@fisfun.uned.es
-
 
 <p align="center">
   <img src="images/loss_function_graph.png" width="500"><br>
