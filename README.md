@@ -4,10 +4,6 @@ Developed by Adolfo Vázquez-Quesada.
 
 mail: a.vazquez-quesada@fisfun.uned.es
 
-<p align="center">
-  <img src="images/loss_function_graph.png" width="500">
-</p>
-
 <figure align="center">
   <img src="images/loss_function_graph.png" width="500">
   <figcaption>Evolution of the loss function during training.</figcaption>
