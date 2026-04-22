@@ -81,7 +81,7 @@ The file `data.dat` must contain three columns corresponding to the x, y, and z 
 
 # Output files
 
-'loss_function.dat' -> Two columns.
+`loss_function.dat` -> Two columns.
 
                       Column 1 -> Iteration
 
