@@ -20,7 +20,7 @@ mail: a.vazquez-quesada@fisfun.uned.es
 
 - main.cu is the main file of the code.
 
-# Compilation 
+## Compilation 
 The compilation is done with the makefile file. 
 To compile, just write the following command in the command line:
 
@@ -32,7 +32,7 @@ If you want to clean everthing before compiling again, just do
 
 make clean
 
-# Running the program
+## Running the program
 
 You need to have the following files in the same directory (with the exact names shown below):
 
@@ -44,7 +44,7 @@ To run the program, execute:
 
 ./neural_network_program
 
-# Input Variables
+## Input Variables
 
 **Nneurons**               -> Number of neurons per hidden layer
 
@@ -78,12 +78,12 @@ To run the program, execute:
                              This file is a gnuplot script used to plot the fitted function
 
 
-# Data File
+## Data File
 
 The file `data.dat` must contain three columns corresponding to the x-, y-, and z-coordinates of each data point.
 
 
-# Output Files
+## Output Files
 
 **loss_function.dat** -> Two columns:
 
