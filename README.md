@@ -62,7 +62,7 @@ To run the program, execute:
 
 **epsilon**               -> Parameter used when initialization = 1
 
-**initial_learning_rate** -> Initial learning rate of the neural network
+**eta**                   -> Learning rate of the neural network
 
 **beta1**                 -> ADAM optimizer parameter for the gradient descent update
 
